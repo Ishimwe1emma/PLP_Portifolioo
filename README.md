@@ -36,13 +36,13 @@ I'm actively pursuing technical education through Power Learn Project and other 
 ## 📬 Contact Me
 
 - Email: [ishimweemmanuel@example.com](mailto:ishimweemmanuel@example.com)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/Ishimwe1emma)
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/Emma_Ishimwe)
 
 ## 🌐 Live Demo
 
 Check out the live version hosted on GitHub Pages:  
-👉 [https://YOUR_USERNAME.github.io/emmanuel-portfolio](https://YOUR_USERNAME.github.io/emmanuel-portfolio)
+👉 [https://Ishimwe1emma.github.io/emmanuel-portfolio](https://Ishimwe1emma.github.io/emmanuel-portfolio)
 
 ---
 
