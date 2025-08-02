@@ -35,7 +35,7 @@ I'm actively pursuing technical education through Power Learn Project and other 
 
 ## 📬 Contact Me
 
-- Email: [ishimweemmanuel@example.com](mailto:ishimweemmanuel@example.com)
+- Email: ishimweleesyl@gmail.com (mailto:ishimweemmanuel@gmail.com)
 - GitHub: [github.com/Ishimwe1emma](https://github.com/Ishimwe1emma)
 - LinkedIn: [linkedin.com/in/Emma_Ishimwe](https://linkedin.com/in/Emma_Ishimwe)
 
